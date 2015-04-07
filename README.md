@@ -3,7 +3,7 @@ Java1 week2
 
 This was my first individual assignment for JAVA PROGRAMMING I.
 
-Here are the requirements for the assignment:
+Here were the requirements for the assignment:
 
 Write a Java™ application using NetBeans™ Integrated Development Environment (IDE) 
 that calculates the total annual compensation of a salesperson. Consider the following factors:
@@ -17,3 +17,5 @@ The application should have at least one class, in addition to the application�
 (a controlling class is where the main function resides).
 There should be proper documentation in the source code.
 The application should ask the user to enter annual sales, and it should display the total annual compensation.
+
+CommissionCalc1\src to view the code
