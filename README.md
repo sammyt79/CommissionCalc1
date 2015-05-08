@@ -18,4 +18,4 @@ The application should have at least one class, in addition to the applicationâ€
 There should be proper documentation in the source code.
 The application should ask the user to enter annual sales, and it should display the total annual compensation.
 
-CommissionCalc1\src to view the code
+CommissoinCalc1.jar to run the program
